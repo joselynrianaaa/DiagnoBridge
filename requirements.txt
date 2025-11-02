@@ -1,0 +1,26 @@
+# API Server (Flask)
+flask==3.0.0
+flask-cors==4.0.0
+
+# Google APIs (Calendar, Docs, Drive)
+google-auth==2.23.4
+google-auth-oauthlib==1.1.0
+google-auth-httplib2==0.1.1
+google-api-python-client==2.108.0
+
+# AI/ML (for MedicalCrew)
+google-generativeai==0.7.0
+
+# Data Processing
+pandas>=2.2.0
+networkx==3.1
+
+# Visualization (for knowledge graph if needed)
+plotly==5.17.0
+
+# Utilities
+python-dotenv==1.0.0
+reportlab==4.0.7
+
+# Optional: Keep Streamlit if you want to run the old interface
+# streamlit==1.29.0
