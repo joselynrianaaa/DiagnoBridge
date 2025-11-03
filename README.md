@@ -1,6 +1,6 @@
 #  DiagnoBridge – bridging symptoms to doctors
 
-Simple React frontend with Python backend for medical diagnosis and appointment booking with Google Calendar integration.
+AI-powered medical diagnosis and appointment booking with Google Calendar integration.
 
 ## Features
 
